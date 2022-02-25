@@ -1,0 +1,32 @@
+Monday/21/February/2021
+
+NetworkII-Roadmap
+
+* What is computer Network?
+  - share available resource like printer or information over geographically wide areas.
+* what are these network devices?
+  Hub Layer 1 device: don't what is ip address, which have contains many ports and allow them to access it.
+  Switch: data link layer.
+                         * the destination MAC adddress of every parket it receives and forward only to the port
+                         * packets aren't repeated on ports that don't contain the packets destination
+  Router: A router is a layer-3 device, which means it works at the network layer of the OST
+          refernce modol.* know about IP addresses
+                         * tell the way of destination what should go
+                         * Know port
+* what is network Protocol and Standard? are the same
+  - Protocols make it possible for the various component of a network to communicate wieh each other.
+  - Standards make it possible for different manufacturer's network components to work together
+
+* What is IP address?
+  Ip address: is unique number, used to identify of every network
+              * Ip address used ot access the internet or a string of character
+              * 
+* what is routing?
+              * is the general term or ramdome protocols that describes what router to.
+              * the routing determines the best way to get the packet to its destinations.
+* Planning Network:
+* Implementing Network:
+* Managing Network:
+* Network Security:
+                  
+   
